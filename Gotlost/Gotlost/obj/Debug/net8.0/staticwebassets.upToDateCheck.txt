@@ -112,6 +112,7 @@ wwwroot\uploads\5df5eb31-51ec-4e01-aee4-051cd5456032.jpeg
 wwwroot\uploads\626cdfb4-2b48-463c-82fd-7f34c7f478e9.jpeg
 wwwroot\uploads\64517a89-7301-4c68-952b-2572e804a94b.jfif
 wwwroot\uploads\6d452bd0-2c5a-441a-a77b-c4a0d8fdfe65.jpeg
+wwwroot\uploads\712303ac-dcb0-44f4-82fa-862ae6b69d2a.jpg
 wwwroot\uploads\71722fdb-ecec-4fa8-9240-ad003c426945.jpeg
 wwwroot\uploads\79af95f3-d81d-433e-a533-a61c9ea5e7f6.png
 wwwroot\uploads\83975c57-7a02-4a41-b33c-4e266acdd245.png

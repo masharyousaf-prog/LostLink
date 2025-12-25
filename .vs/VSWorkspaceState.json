@@ -3,8 +3,10 @@
     "",
     "\\Gotlost",
     "\\Gotlost\\Gotlost",
-    "\\Gotlost\\Gotlost\\Controllers"
+    "\\Gotlost\\Gotlost\\Controllers",
+    "\\Gotlost\\Gotlost\\Views",
+    "\\Gotlost\\Gotlost\\Views\\Home"
   ],
-  "SelectedNode": "\\Gotlost\\Gotlost\\Controllers\\LoginController.cs",
+  "SelectedNode": "\\Gotlost\\Gotlost\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

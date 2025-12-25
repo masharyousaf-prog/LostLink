@@ -4861,11 +4861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Gotlost.csproj",
+      "projectUniqueName": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\AP theory Project\\AP theory Project\\LostLink\\Gotlost\\Gotlost\\Gotlost.csproj",
       "projectName": "Gotlost",
-      "projectPath": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Gotlost.csproj",
+      "projectPath": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\AP theory Project\\AP theory Project\\LostLink\\Gotlost\\Gotlost\\Gotlost.csproj",
       "packagesPath": "C:\\Users\\M Ashar Yousaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\obj\\",
+      "outputPath": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\AP theory Project\\AP theory Project\\LostLink\\Gotlost\\Gotlost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
