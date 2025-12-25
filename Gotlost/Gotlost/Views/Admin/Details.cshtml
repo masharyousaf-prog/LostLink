@@ -1,0 +1,32 @@
+﻿@model Gotlost.Models.Entities.FoundItem
+@{
+    ViewBag.Title = "Item Details";
+}
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Item Details</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Item Name</dt>
+                <dd class="col-sm-9">@Model.ItemName</dd>
+
+                <dt class="col-sm-3">Description</dt>
+                <dd class="col-sm-9">@Model.Description</dd>
+
+                <dt class="col-sm-3">Found Date</dt>
+                <dd class="col-sm-9">@Model.FoundDate.ToShortDateString()</dd>
+
+                <dt class="col-sm-3">Location</dt>
+                <dd class="col-sm-9">@Model.Location</dd>
+
+                <dt class="col-sm-3">Reported By</dt>
+                <dd class="col-sm-9">@Model.User?.FullName</dd>
+            </dl>
+            <hr />
+            <a asp-controller="Admin" asp-action="AllFoundItems" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

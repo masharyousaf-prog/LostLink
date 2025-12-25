@@ -1,0 +1,29 @@
+﻿/* Clean standard overrides */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1; /* Pushes footer to bottom */
+}
+
+a {
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+/* Optional: Make cards hover nicely in your lists */
+.card {
+    transition: transform 0.2s;
+}
+
+    .card:hover {
+        transform: translateY(-2px);
+    }

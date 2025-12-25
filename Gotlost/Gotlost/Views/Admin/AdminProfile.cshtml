@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Admin Dashboard";
+    Layout = "_Layout";
+}
+
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4">Welcome, Admin</h1>
+        <p class="lead text-muted">Manage your application from a central dashboard.</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Found Items</h5>
+                    <p class="card-text">View and manage all found item reports.</p>
+                    <a asp-controller="Admin" asp-action="AllFoundItems" class="btn btn-primary">Go to Items</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Manage Claims</h5>
+                    <p class="card-text">Approve or reject user claims.</p>
+                    <a asp-controller="Admin" asp-action="AllClaims" class="btn btn-primary">View Claims</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Manage Users</h5>
+                    <p class="card-text">View registered system users.</p>
+                    <a asp-controller="Admin" asp-action="AllUsers" class="btn btn-primary">Go to Users</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Messages</h5>
+                    <p class="card-text">Read inquiries from the Contact Us form.</p>
+                    <a asp-controller="Admin" asp-action="Messages" class="btn btn-primary">View Messages</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm border-danger">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-danger">Admin Actions</h5>
+                    <p class="card-text">Securely sign out of the dashboard.</p>
+                    <form asp-controller="Admin" asp-action="Logout" method="post">
+                        <button class="btn btn-danger" type="submit">Logout</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,29 @@
+/* Clean standard overrides */
+body[b-vm4s4zxpvg] {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-vm4s4zxpvg] {
+    flex: 1; /* Pushes footer to bottom */
+}
+
+a[b-vm4s4zxpvg] {
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.navbar-brand[b-vm4s4zxpvg] {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+/* Optional: Make cards hover nicely in your lists */
+.card[b-vm4s4zxpvg] {
+    transition: transform 0.2s;
+}
+
+    .card:hover[b-vm4s4zxpvg] {
+        transform: translateY(-2px);
+    }

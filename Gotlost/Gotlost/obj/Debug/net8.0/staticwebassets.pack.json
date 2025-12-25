@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gotlost.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gotlost.agbnni6mtz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\1-updated-3.png",
+      "PackagePath": "staticwebassets\\content\\images\\1-updated-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\GOLD-03-600x600-2.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\GOLD-03-600x600-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\HelloKittySocialMediaDesign09img-01.webp",
+      "PackagePath": "staticwebassets\\content\\images\\HelloKittySocialMediaDesign09img-01.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\abdullah.jpeg",
+      "PackagePath": "staticwebassets\\content\\images\\abdullah.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\adil.jpeg",
+      "PackagePath": "staticwebassets\\content\\images\\adil.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\airpods.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\airpods.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\background.png",
+      "PackagePath": "staticwebassets\\content\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\cheering.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\cheering.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\cheering.png",
+      "PackagePath": "staticwebassets\\content\\images\\cheering.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\community.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\community.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\community.png",
+      "PackagePath": "staticwebassets\\content\\images\\community.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\contactus.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\contactus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\content\\images\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\football.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\football.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\found-card.png",
+      "PackagePath": "staticwebassets\\content\\images\\found-card.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\found.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\found.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\found_animated.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\found_animated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\great_community.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\great_community.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\headphone.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\laptop.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\logo.png",
+      "PackagePath": "staticwebassets\\content\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost-2.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\lost-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost-and-found.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\lost-and-found.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost-and-found.png",
+      "PackagePath": "staticwebassets\\content\\images\\lost-and-found.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost-card.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\lost-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost-card.png",
+      "PackagePath": "staticwebassets\\content\\images\\lost-card.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost-get.jpeg",
+      "PackagePath": "staticwebassets\\content\\images\\lost-get.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost.png",
+      "PackagePath": "staticwebassets\\content\\images\\lost.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\lost_animated.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\lost_animated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\mission.png",
+      "PackagePath": "staticwebassets\\content\\images\\mission.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\phone.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\register.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\rjitlogo.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\rjitlogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\thinking.jpeg",
+      "PackagePath": "staticwebassets\\content\\images\\thinking.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\watch.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\content\\images\\water-bottle.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\water-bottle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\0740e852-91ea-4016-aff8-0b6758ac84d3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\0740e852-91ea-4016-aff8-0b6758ac84d3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\0cde5107-72d4-4cfe-a54b-ab461385600d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\0cde5107-72d4-4cfe-a54b-ab461385600d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\0daa28b5-dcc6-4fdf-becd-28cfb9f204c7.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\0daa28b5-dcc6-4fdf-becd-28cfb9f204c7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\10d4963b-8d98-40e8-a584-78a824b77676.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\10d4963b-8d98-40e8-a584-78a824b77676.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\15f285a0-4389-4d1a-bd26-99842b076038.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\15f285a0-4389-4d1a-bd26-99842b076038.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\19072694-766f-4f8b-b246-676c63de7d55.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\19072694-766f-4f8b-b246-676c63de7d55.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\1d9ba974-bd34-40b1-b05d-f58c5907efc9.png",
+      "PackagePath": "staticwebassets\\uploads\\1d9ba974-bd34-40b1-b05d-f58c5907efc9.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\399c16e8-dbf1-4b81-b432-23a564a14c03.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\399c16e8-dbf1-4b81-b432-23a564a14c03.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\4deec505-948a-4e9b-81c8-f978ed521132.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\4deec505-948a-4e9b-81c8-f978ed521132.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\55daab1a-0b80-46c7-a166-09596bd7f126.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\55daab1a-0b80-46c7-a166-09596bd7f126.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\5df5eb31-51ec-4e01-aee4-051cd5456032.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\5df5eb31-51ec-4e01-aee4-051cd5456032.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\626cdfb4-2b48-463c-82fd-7f34c7f478e9.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\626cdfb4-2b48-463c-82fd-7f34c7f478e9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\64517a89-7301-4c68-952b-2572e804a94b.jfif",
+      "PackagePath": "staticwebassets\\uploads\\64517a89-7301-4c68-952b-2572e804a94b.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\6d452bd0-2c5a-441a-a77b-c4a0d8fdfe65.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\6d452bd0-2c5a-441a-a77b-c4a0d8fdfe65.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\71722fdb-ecec-4fa8-9240-ad003c426945.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\71722fdb-ecec-4fa8-9240-ad003c426945.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\79af95f3-d81d-433e-a533-a61c9ea5e7f6.png",
+      "PackagePath": "staticwebassets\\uploads\\79af95f3-d81d-433e-a533-a61c9ea5e7f6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\83975c57-7a02-4a41-b33c-4e266acdd245.png",
+      "PackagePath": "staticwebassets\\uploads\\83975c57-7a02-4a41-b33c-4e266acdd245.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\8b638bb4-b302-4c12-98fe-48115462c6e4.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8b638bb4-b302-4c12-98fe-48115462c6e4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\90ac1439-f4ac-4ff8-902c-7d69c1cbc44b.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\90ac1439-f4ac-4ff8-902c-7d69c1cbc44b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\9262c9ef-2f8b-423d-b834-782a8fe4d57e.png",
+      "PackagePath": "staticwebassets\\uploads\\9262c9ef-2f8b-423d-b834-782a8fe4d57e.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\9312a089-03d7-4f4a-899c-d03c61c594d9.png",
+      "PackagePath": "staticwebassets\\uploads\\9312a089-03d7-4f4a-899c-d03c61c594d9.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\958c6679-eb01-44a6-97cb-5f62e195abb2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\958c6679-eb01-44a6-97cb-5f62e195abb2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\96138095-ee45-48ae-9864-4237261eca10.png",
+      "PackagePath": "staticwebassets\\uploads\\96138095-ee45-48ae-9864-4237261eca10.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\9bcabf41-a45a-4df3-9fd5-d24200ea4431.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\9bcabf41-a45a-4df3-9fd5-d24200ea4431.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\ae0c5fa5-ddfd-4e33-9d16-e6226331b386.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ae0c5fa5-ddfd-4e33-9d16-e6226331b386.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\b1cfb0ae-145a-4a45-90ab-f59ef379ab29.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\b1cfb0ae-145a-4a45-90ab-f59ef379ab29.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\b43ce9c9-4dbd-4914-a96a-c01b34468bb2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\b43ce9c9-4dbd-4914-a96a-c01b34468bb2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\b6ac4411-2ca0-444d-9873-210a71cfc2ef.png",
+      "PackagePath": "staticwebassets\\uploads\\b6ac4411-2ca0-444d-9873-210a71cfc2ef.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\c0280c6c-e7da-4f07-968c-98b6e17a3aa7.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c0280c6c-e7da-4f07-968c-98b6e17a3aa7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\c0bbf5af-4e42-4776-84ed-c8a15aa22656.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c0bbf5af-4e42-4776-84ed-c8a15aa22656.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\c67fb24a-2c03-4e81-9100-5f3fd396c4c7.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c67fb24a-2c03-4e81-9100-5f3fd396c4c7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\cbd78cc2-b641-4694-b0c3-bb0d0729862a.png",
+      "PackagePath": "staticwebassets\\uploads\\cbd78cc2-b641-4694-b0c3-bb0d0729862a.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\cc3ec8f7-ccf8-4ced-887c-4d5b95975ebe.webp",
+      "PackagePath": "staticwebassets\\uploads\\cc3ec8f7-ccf8-4ced-887c-4d5b95975ebe.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\d2bcfb8b-c131-4b57-8b73-f87ccc7614a7.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\d2bcfb8b-c131-4b57-8b73-f87ccc7614a7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\d68fe2f9-8c27-457f-93ef-b1468fce1484.png",
+      "PackagePath": "staticwebassets\\uploads\\d68fe2f9-8c27-457f-93ef-b1468fce1484.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\e04bcf45-1bbe-4d89-bafd-12699ca735d4.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e04bcf45-1bbe-4d89-bafd-12699ca735d4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\e343ce7d-6f13-47e9-8d42-2c72b4c4d13c.webp",
+      "PackagePath": "staticwebassets\\uploads\\e343ce7d-6f13-47e9-8d42-2c72b4c4d13c.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\e51f5714-ac5d-4632-8f06-250fa6a9b921.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e51f5714-ac5d-4632-8f06-250fa6a9b921.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\eac533c2-d872-441d-a67f-e4a4ae315f9c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\eac533c2-d872-441d-a67f-e4a4ae315f9c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\ec3c42c7-d549-4e79-a51a-de258b87cac8.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ec3c42c7-d549-4e79-a51a-de258b87cac8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\ef022937-b7d6-41aa-8e34-fc8da5d05d72.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ef022937-b7d6-41aa-8e34-fc8da5d05d72.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\f055fd80-bfeb-4a8f-9e1e-fb280fd63587.JPG",
+      "PackagePath": "staticwebassets\\uploads\\f055fd80-bfeb-4a8f-9e1e-fb280fd63587.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\f0c461e4-f8e4-46d5-ac9e-d9df26b52a33.png",
+      "PackagePath": "staticwebassets\\uploads\\f0c461e4-f8e4-46d5-ac9e-d9df26b52a33.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Gotlost 66aa (2)55\\Gotlost 66aa\\Gotlost 66aa\\Gotlost\\Gotlost\\Gotlost\\wwwroot\\uploads\\f2840f5a-d811-4797-bc3d-356de813bf79.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\f2840f5a-d811-4797-bc3d-356de813bf79.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gotlost.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gotlost.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Gotlost.props",
+      "PackagePath": "build\\Gotlost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Gotlost.props",
+      "PackagePath": "buildMultiTargeting\\Gotlost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Gotlost.props",
+      "PackagePath": "buildTransitive\\Gotlost.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

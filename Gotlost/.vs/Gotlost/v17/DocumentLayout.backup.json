@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\login\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\login\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\login\\found.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\login\\found.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\login\\claim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\login\\claim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\login\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\login\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\allfounditems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\allfounditems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\allclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\allclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\views\\admin\\adminprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\views\\admin\\adminprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\migrations\\20251219181638_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\migrations\\20251219181638_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\models\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\models\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\models\\entities\\founditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\models\\entities\\founditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\models\\entities\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\models\\entities\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\migrations\\20250503203909_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\migrations\\20250503203909_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\models\\addclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\models\\addclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AP\\Gotlost\\Gotlost\\Migrations\\20250501094049_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|c:\\users\\m ashar yousaf\\documents\\uni code\\adv prog\\5_syedabdullah_3211_finalproject\\5_syedabdullah_3211_finalproject\\lostlink\\gotlost\\gotlost\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B9B9511-F170-4834-A8E2-5021619706D9}|Gotlost\\Gotlost.csproj|solutionrelative:gotlost\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Gotlost\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwPQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:56:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T20:56:44.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwH0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T06:45:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Claim.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Claim.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Login\\Claim.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Claim.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Login\\Claim.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T15:47:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Gotlost\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwHAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T06:55:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Login\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Profile.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Login\\Profile.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAGcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:43:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Gotlost\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-23T09:45:31.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Found.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Found.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Login\\Found.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Found.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Login\\Found.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T17:00:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "Gotlost\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:41:11.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aboutus.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Home\\Aboutus.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Home\\Aboutus.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Home\\Aboutus.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Home\\Aboutus.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T08:47:32.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Signup\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Signup\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Signup\\Index.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Signup\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T20:41:49.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contactus.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Home\\Contactus.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Home\\Contactus.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Home\\Contactus.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Home\\Contactus.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T10:31:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T09:44:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T09:44:58.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Login\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Login\\Gallery.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Login\\Gallery.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:56:01.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T12:34:12.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T11:18:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AllUsers.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\AllUsers.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AllUsers.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\AllUsers.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T12:15:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T11:39:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AllFoundItems.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AllFoundItems.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\AllFoundItems.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AllFoundItems.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\AllFoundItems.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T10:48:26.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T09:48:57.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AllClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AllClaims.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\AllClaims.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AllClaims.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\AllClaims.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T11:53:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Messages.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Messages.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\Messages.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\Messages.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\Messages.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:25:30.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AdminProfile.cshtml",
+              "RelativeDocumentMoniker": "Gotlost\\Views\\Admin\\AdminProfile.cshtml",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Views\\Admin\\AdminProfile.cshtml",
+              "RelativeToolTip": "Gotlost\\Views\\Admin\\AdminProfile.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T10:08:11.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Gotlost\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:48:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251219181638_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Migrations\\20251219181638_Initial.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Migrations\\20251219181638_Initial.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Migrations\\20251219181638_Initial.cs",
+              "RelativeToolTip": "Gotlost\\Migrations\\20251219181638_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:16:38.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\appsettings.json",
+              "RelativeDocumentMoniker": "Gotlost\\appsettings.json",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\appsettings.json",
+              "RelativeToolTip": "Gotlost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T07:50:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Gotlost\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:34:43.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\Claim.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Models\\Entities\\Claim.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\Claim.cs",
+              "RelativeToolTip": "Gotlost\\Models\\Entities\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:16:56.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Gotlost\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:48:20.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FoundItem.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\FoundItem.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Models\\Entities\\FoundItem.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\FoundItem.cs",
+              "RelativeToolTip": "Gotlost\\Models\\Entities\\FoundItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:15:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Gotlost\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:11:07.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Contactus.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\Contactus.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Models\\Entities\\Contactus.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\Entities\\Contactus.cs",
+              "RelativeToolTip": "Gotlost\\Models\\Entities\\Contactus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:13:45.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Gotlost\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:41:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250503203909_Init.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Migrations\\20250503203909_Init.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Migrations\\20250503203909_Init.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Migrations\\20250503203909_Init.cs",
+              "RelativeToolTip": "Gotlost\\Migrations\\20250503203909_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:39:10.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddClaim.cs",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\AddClaim.cs",
+              "RelativeDocumentMoniker": "Gotlost\\Models\\AddClaim.cs",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\Models\\AddClaim.cs",
+              "RelativeToolTip": "Gotlost\\Models\\AddClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:00:43.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250501094049_Init.cs",
+              "DocumentMoniker": "C:\\AP\\Gotlost\\Gotlost\\Migrations\\20250501094049_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\AP\\Gotlost\\Gotlost\\Migrations\\20250501094049_Init.cs",
+              "ToolTip": "C:\\AP\\Gotlost\\Gotlost\\Migrations\\20250501094049_Init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\AP\\Gotlost\\Gotlost\\Migrations\\20250501094049_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:40:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Gotlost\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "Gotlost\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAADIBAAAAAAAAAAAQwEcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-20T06:51:03.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Gotlost\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\M Ashar Yousaf\\Documents\\Uni Code\\Adv Prog\\5_SyedAbdullah_3211_FinalProject\\5_SyedAbdullah_3211_FinalProject\\LostLink\\Gotlost\\Gotlost\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Gotlost\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-20T06:50:24.865Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

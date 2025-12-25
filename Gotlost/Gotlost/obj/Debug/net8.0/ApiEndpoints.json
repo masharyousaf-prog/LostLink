@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "Gotlost.Controllers.ApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/{controller}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "controller",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gotlost.Controllers.ApiController",
+    "Method": "Post",
+    "RelativePath": "api/{controller}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "Gotlost.Models.Entities.User",
+        "IsRequired": true
+      },
+      {
+        "Name": "controller",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gotlost.Controllers.ApiController",
+    "Method": "Get",
+    "RelativePath": "api/{controller}/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "controller",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gotlost.Controllers.ApiController",
+    "Method": "Put",
+    "RelativePath": "api/{controller}/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "Gotlost.Models.Entities.User",
+        "IsRequired": true
+      },
+      {
+        "Name": "controller",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gotlost.Controllers.ApiController",
+    "Method": "Delete",
+    "RelativePath": "api/{controller}/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "controller",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

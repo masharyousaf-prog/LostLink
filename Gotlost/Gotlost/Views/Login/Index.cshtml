@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container d-flex align-items-center justify-content-center" style="min-height: 85vh;">
+    <div class="card shadow-sm" style="width: 100%; max-width: 450px;">
+        <div class="card-body p-5">
+            <h3 class="text-center mb-4 font-weight-bold">Login to LostLink</h3>
+
+            <form method="post" action="/Login/login">
+                @Html.AntiForgeryToken()
+
+                <div class="form-group mb-3">
+                    <label for="email" class="form-label">Email Address</label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="fas fa-envelope"></i></span>
+                        <input type="email" class="form-control" id="email" name="Email" placeholder="name@example.com" required />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="fas fa-lock"></i></span>
+                        <input type="password" class="form-control" id="password" name="Password" placeholder="Enter password" required />
+                    </div>
+                </div>
+
+                <div class="form-check mb-4">
+                    <input type="checkbox" class="form-check-input" id="rememberMe" name="RememberMe" />
+                    <label class="form-check-label" for="rememberMe">Remember me</label>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-block w-100">Sign In</button>
+
+                <div class="text-center mt-3">
+                    <small class="text-muted">
+                        Don't have an account?
+                        <a asp-controller="Signup" asp-action="Index">Register here</a>
+                    </small>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

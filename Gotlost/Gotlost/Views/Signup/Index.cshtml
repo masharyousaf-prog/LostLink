@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5" style="min-height: 80vh; display: flex; align-items: center; justify-content: center;">
+    <div class="card shadow border-0" style="max-width: 500px; width: 100%;">
+        <div class="card-body p-5">
+            <div class="text-center mb-4">
+                <h2 class="font-weight-bold text-primary"><i class="fas fa-user-plus mr-2"></i>Create Account</h2>
+                <p class="text-muted">Join the LostLink community today</p>
+            </div>
+
+            <form action="/Signup/signup" method="post" enctype="multipart/form-data">
+                @Html.AntiForgeryToken()
+
+                <div class="form-group mb-3">
+                    <label class="form-label font-weight-bold">Full Name <span class="text-danger">*</span></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="fas fa-user"></i></span>
+                        <input type="text" name="FullName" class="form-control" placeholder="John Doe" required />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label font-weight-bold">Email Address <span class="text-danger">*</span></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="fas fa-envelope"></i></span>
+                        <input type="email" name="Email" class="form-control" placeholder="name@example.com" required />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label font-weight-bold">Phone Number</label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="fas fa-phone"></i></span>
+                        <input type="tel" name="PhoneNumber" class="form-control" placeholder="+123 456 7890" />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label font-weight-bold">Password <span class="text-danger">*</span></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="fas fa-lock"></i></span>
+                        <input type="password" name="Password" class="form-control" placeholder="Create a strong password" required />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label font-weight-bold">Profile Picture</label>
+                    <input type="file" name="ProfilePicture" class="form-control" accept="image/*" />
+                </div>
+
+                <div class="form-check mb-4">
+                    <input type="checkbox" name="AgreeTerms" class="form-check-input" id="terms" required />
+                    <label class="form-check-label" for="terms">
+                        I agree to the <a href="#" class="text-primary text-decoration-none">Terms and Conditions</a>
+                    </label>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-block w-100 py-2">Register Now</button>
+                </div>
+
+                <div class="text-center mt-3">
+                    <small class="text-muted">Already have an account? <a href="/Login/Index" class="font-weight-bold text-primary">Log in here</a></small>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

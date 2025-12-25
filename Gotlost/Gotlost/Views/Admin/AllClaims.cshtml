@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Gotlost.Models.Entities.Claim>
+
+@{
+    ViewBag.Title = "All Claims";
+}
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>All Claims</h2>
+        <a asp-controller="Admin" asp-action="Back" class="btn btn-outline-secondary">Back</a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered">
+            <thead class="thead-light">
+                <tr>
+                    <th>ID</th>
+                    <th>User</th>
+                    <th>Item</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Date</th>
+                    <th style="width: 200px;">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var claim in Model)
+                {
+                    <tr>
+                        <td>@claim.ClaimId</td>
+                        <td>@claim.User?.FullName</td>
+                        <td>@claim.FoundItem?.ItemName</td>
+                        <td>@claim.Description</td>
+                        <td>
+                            <span class="badge badge-@(claim.Status == "Approved" ? "success" : claim.Status == "Rejected" ? "danger" : "warning")">
+                                @claim.Status
+                            </span>
+                        </td>
+                        <td>@claim.ClaimDate.ToShortDateString()</td>
+                        <td>
+                            <form asp-action="UpdateStatus" method="post" class="input-group input-group-sm">
+                                <input type="hidden" name="id" value="@claim.ClaimId" />
+                                <select name="status" class="custom-select">
+                                    <option value="Pending" selected="@(claim.Status == "Pending")">Pending</option>
+                                    <option value="Approved" selected="@(claim.Status == "Approved")">Approved</option>
+                                    <option value="Rejected" selected="@(claim.Status == "Rejected")">Rejected</option>
+                                </select>
+                                <div class="input-group-append">
+                                    <button type="submit" class="btn btn-success">Update</button>
+                                </div>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

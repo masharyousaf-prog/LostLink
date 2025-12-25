@@ -1,0 +1,68 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Report Found Item";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+
+            <div class="text-center mb-4">
+                <h1 class="display-5 font-weight-bold">Report Found Item</h1>
+                <p class="lead text-muted">Please provide accurate details so the owner can reclaim it easily.</p>
+            </div>
+
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0"><i class="fas fa-box-open mr-2"></i>Item Details</h5>
+                </div>
+                <div class="card-body p-4">
+                    <form asp-controller="Login" asp-action="ReportFound" method="post" enctype="multipart/form-data">
+
+                        <div class="form-group mb-3">
+                            <label for="ItemName" class="font-weight-bold">Item Name <span class="text-danger">*</span></label>
+                            <input type="text" id="ItemName" name="ItemName" class="form-control" required placeholder="e.g., Black Wallet" />
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label for="Description" class="font-weight-bold">Description</label>
+                            <textarea id="Description" name="Description" class="form-control" rows="3" placeholder="Describe the item (color, brand, unique marks)..."></textarea>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 form-group mb-3">
+                                <label for="FoundDate" class="font-weight-bold">Found Date <span class="text-danger">*</span></label>
+                                <input type="date" id="FoundDate" name="FoundDate" class="form-control" required />
+                            </div>
+                            <div class="col-md-6 form-group mb-3">
+                                <label for="Location" class="font-weight-bold">Location <span class="text-danger">*</span></label>
+                                <input type="text" id="Location" name="Location" class="form-control" required placeholder="e.g., Library" />
+                            </div>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label for="ImageFile" class="font-weight-bold">Upload Image</label>
+                            <input type="file" id="ImageFile" name="ImageFile" class="form-control" accept="image/*" />
+                            <small class="text-muted">Optional. Helps identify the item faster.</small>
+                        </div>
+
+                        <div class="form-check mb-4">
+                            <input type="checkbox" name="AgreeTerms" class="form-check-input" id="terms" required />
+                            <label class="form-check-label" for="terms">
+                                I agree to the <a href="#">terms and conditions</a>
+                            </label>
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-block w-100 py-2">
+                                <i class="fas fa-check-circle mr-2"></i> Submit Report
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

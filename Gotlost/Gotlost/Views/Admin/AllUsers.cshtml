@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Gotlost.Models.Entities.User>
+@{
+    ViewBag.Title = "Manage Users";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Registered Users</h2>
+        <a asp-controller="Admin" asp-action="Back" class="btn btn-outline-secondary">Back</a>
+    </div>
+
+    <table class="table table-bordered table-striped align-middle">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Profile</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.UserId</td>
+                    <td>@user.FullName</td>
+                    <td>@user.Email</td>
+                    <td>@user.PhoneNumber</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(user.ProfilePicturePath))
+                        {
+                            <img src="@Url.Content(user.ProfilePicturePath)" class="rounded-circle" alt="Profile" width="40" height="40" style="object-fit:cover;" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">N/A</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-controller="Admin" asp-action="DeleteUser" asp-route-id="@user.UserId" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

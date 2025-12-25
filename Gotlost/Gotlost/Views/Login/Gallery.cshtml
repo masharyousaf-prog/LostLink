@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Gotlost.Models.Entities.FoundItem>
+
+@{
+    ViewData["Title"] = "Found Items Gallery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <h2 class="mb-4 border-bottom pb-2">Found Items Gallery</h2>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <div style="height: 200px; overflow: hidden;">
+                            <img src="@Url.Content(item.ImagePath ?? "~/images/default-item.png")"
+                                 class="card-img-top"
+                                 alt="@item.ItemName"
+                                 style="object-fit: cover; height: 100%; width: 100%;"
+                                 onerror="this.src='https://via.placeholder.com/150'">
+                        </div>
+
+                        <div class="card-body">
+                            <h5 class="card-title text-truncate">@item.ItemName</h5>
+                            <p class="card-text text-muted small mb-2">
+                                <i class="fas fa-map-marker-alt text-danger mr-1"></i> @item.Location
+                            </p>
+                            <p class="card-text text-muted small mb-3">
+                                <i class="far fa-calendar-alt text-primary mr-1"></i> @item.FoundDate.ToString("dd MMM yyyy")
+                            </p>
+                            <p class="card-text">
+                                @(item.Description.Length > 60 ? item.Description.Substring(0, 60) + "..." : item.Description)
+                            </p>
+                        </div>
+
+                        <div class="card-footer bg-white border-top-0">
+                            <a asp-controller="Login" asp-action="Claim" asp-route-foundItemId="@item.FoundItemId" class="btn btn-primary btn-block w-100">
+                                <i class="fas fa-hand-paper mr-2"></i> Claim This Item
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center p-5">
+            <h4><i class="fas fa-check-circle"></i> No lost items reported!</h4>
+            <p>That's great news. Check back later.</p>
+        </div>
+    }
+</div>
